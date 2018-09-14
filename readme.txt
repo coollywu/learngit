@@ -17,4 +17,5 @@ Included plugins:
 
 Updater (Installer only):
 
-* WinGup (for Notepad++) v5.0.2
+* WinGup (for Notepad++) is a distributed version v5.0.2
+git is a distributed under the GPL V22.
